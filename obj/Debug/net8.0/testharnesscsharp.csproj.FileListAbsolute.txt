@@ -1,0 +1,14 @@
+/Users/ziaul/Projects/coderef/testharnesscsharp/bin/Debug/net8.0/testharnesscsharp
+/Users/ziaul/Projects/coderef/testharnesscsharp/bin/Debug/net8.0/testharnesscsharp.deps.json
+/Users/ziaul/Projects/coderef/testharnesscsharp/bin/Debug/net8.0/testharnesscsharp.runtimeconfig.json
+/Users/ziaul/Projects/coderef/testharnesscsharp/bin/Debug/net8.0/testharnesscsharp.dll
+/Users/ziaul/Projects/coderef/testharnesscsharp/bin/Debug/net8.0/testharnesscsharp.pdb
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.AssemblyInfoInputs.cache
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.AssemblyInfo.cs
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.csproj.CoreCompileInputs.cache
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.dll
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/refint/testharnesscsharp.dll
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.pdb
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.genruntimeconfig.cache
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/ref/testharnesscsharp.dll

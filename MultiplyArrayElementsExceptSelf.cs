@@ -14,7 +14,7 @@ public class MultiplyArrayElements
 		}
 		return retNumers;
 	}
-	public static void Main()
+	public static void Start()
 	{
 		int[] numbers = [2,4,5,7,8];
 		int[] result = MultiplyArrayElementsExceptSelf(numbers);

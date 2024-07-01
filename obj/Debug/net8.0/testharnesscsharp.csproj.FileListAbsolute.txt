@@ -12,3 +12,4 @@
 /Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.pdb
 /Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.genruntimeconfig.cache
 /Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/ref/testharnesscsharp.dll
+/Users/ziaul/Projects/coderef/testharnesscsharp/obj/Debug/net8.0/testharnesscsharp.sourcelink.json
